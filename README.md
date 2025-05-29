@@ -9,7 +9,7 @@ To perform data analysis on company sales data to uncover meaningful business in
 # 🛠️ Tools Used
 SQL (Structured Query Language)
 
-RDBMS: MySQL
+RDBMS: MySQL Workbench
 
 Data Source: sales table from company database
 
